@@ -1,4 +1,4 @@
 # ApnaCollege-Demo
 This is new repository
 <br>
-Author Dhanusudhan redy
+Author Dhanusudhan redy (Apna college)
